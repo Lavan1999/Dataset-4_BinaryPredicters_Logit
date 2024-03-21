@@ -1,8 +1,8 @@
-# MLdataset-11-Binary-Predicters
-# Binary Predicters Dataset Analysis
+# MLdataset-11-Binary-Predictors
+# Binary Predictors Dataset Analysis
 
 ## Overview
-This repository contains the code and documentation for analysing the "Binary Predicters" dataset using Python and statistical methods and Machine Learning Algorithm. The dataset consists of various variables related to Marks, Gender and Admitted. In my prospective admitted is the dependent column to Marks and Gender, Marks are the independent columns. So in machine learning I used Logit algorithm for this data set. Our goal is to explore, analysing, Machine learning and draw insights from this data.
+This repository contains the code and documentation for analysing the "Binary Predictors" dataset using Python and statistical methods and Machine Learning Algorithm. The dataset consists of various variables related to Marks, Gender and Admitted. In my prospective admitted is the dependent column to Marks and Gender, Marks are the independent columns. So in machine learning I used Logit algorithm for this data set. Our goal is to explore, analysing, Machine learning and draw insights from this data.
 ## Dataset Description
 The "Binary Predicters" dataset contains information about Marks and Admitted. Each entry represents a unique dining experience and includes the following columns:
 
